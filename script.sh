@@ -1,2 +1,1 @@
-hello i am with 3SRC1
-o
+echo "hello from esgi"
